@@ -5,3 +5,6 @@
  - Typescript + TSX
  - Fastify
  - ESlint
+ - Prisma
+ - SQLite
+ 
